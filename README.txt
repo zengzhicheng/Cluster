@@ -1,13 +1,13 @@
-Cluster¼¼Êõ¼ò½é
-1¡¢LB LoadBalancer	¸ºÔØ¾ùºâ¼¯Èº
-1.1 LB LVS£¨L4£©	LinuxVirtual ServerÊµÏÖËÄ²ãµÄ¸ºÔØ¾ùºâ
-1.2 LB Nginx£¨L7£©	NginxÊµÏÖÆß²ãµÄ¸ºÔØ¾ùºâ
-1.3 LB Haproxy£¨L4/L7£©	HaproxyÊµÏÖËÄ²ã»òÆß²ãµÄ¸ºÔØ¾ùºâ
+ClusteræŠ€æœ¯ç®€ä»‹
+1ã€LB LoadBalancer	è´Ÿè½½å‡è¡¡é›†ç¾¤
+1.1 LB LVSï¼ˆL4ï¼‰	LinuxVirtual Serverå®ç°å››å±‚çš„è´Ÿè½½å‡è¡¡
+1.2 LB Nginxï¼ˆL7ï¼‰	Nginxå®ç°ä¸ƒå±‚çš„è´Ÿè½½å‡è¡¡
+1.3 LB Haproxyï¼ˆL4/L7ï¼‰	Haproxyå®ç°å››å±‚æˆ–ä¸ƒå±‚çš„è´Ÿè½½å‡è¡¡
 
-2¡¢HA HighAvailability	¸ß¿ÉÓÃ¼¯Èº
-2.1 HA Keepalived	»ùÓÚVRRPĞ­ÒéµÄ¸ß¿ÉÓÃ¼¯Èº
-2.2 HA RHCS		RICCI¡¢LUCI¸ß¿ÉÓÃ¼¯Èº
-2.3 HA PCS		Pacemaker¸ß¿ÉÓÃ¼¯Èº
-2.4 HA Heartbeat	×î³É¹¦µÄ¸ß¿ÉÓÃ¼¯Èº
+2ã€HA HighAvailability	é«˜å¯ç”¨é›†ç¾¤
+2.1 HA Keepalived	åŸºäºVRRPåè®®çš„é«˜å¯ç”¨é›†ç¾¤
+2.2 HA RHCS		RICCIã€LUCIé«˜å¯ç”¨é›†ç¾¤
+2.3 HA PCS		Pacemakeré«˜å¯ç”¨é›†ç¾¤
+2.4 HA Heartbeat	æœ€æˆåŠŸçš„é«˜å¯ç”¨é›†ç¾¤
 
-PS ClusterÎÄµµ¿ÉÍ¨https://github.com/zengzhicheng/Cherrytree½øĞĞ´ò¿ª
+PSï¼šClusteræ–‡æ¡£å¯é€šhttps://github.com/zengzhicheng/Cherrytreeè¿›è¡Œæ‰“å¼€
